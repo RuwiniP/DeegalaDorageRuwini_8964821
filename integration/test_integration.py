@@ -1,4 +1,4 @@
-from library import Library
+from DeegalaDorageRuwini_8964821.integration.library import Library
 
 #Testing the valid scenario for add_book()
 def test_add_book():
