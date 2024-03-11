@@ -5,7 +5,7 @@ Follow the link for the screen recording: [Assignment_3 Recording](https://youtu
 ![image](https://github.com/RuwiniP/DeegalaDorageRuwini_8964821/assets/31927767/0cf43ce1-114c-4446-9f73-fcb1c740c59b)
 
 
-The automation is done to showcase how to add a gift item to the shopping cart and how to complete the checkout process. Website used for the automation is a Sri Lankan e-commerce website named 'Lassana;. Here are the key flows within this automation:
+The automation is done to showcase how to add a gift item to the shopping cart and how to complete the checkout process. Website used for the automation is a Sri Lankan e-commerce website named 'Lassana'. Here are the key flows within this automation:
 
 1. Selecting gifts from the navigation
 2. Selecting the cake
